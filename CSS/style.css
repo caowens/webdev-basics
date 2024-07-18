@@ -1,0 +1,27 @@
+p {
+    color: white;
+    background: red;
+    font-style: italic;
+}
+
+div {
+    float: left;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
